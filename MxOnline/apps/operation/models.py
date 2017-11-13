@@ -2,8 +2,8 @@ from django.db import models
 
 from datetime import datetime
 
-from users.models import UserProfile
-from courses.models import Course
+from apps.users.models import UserProfile
+from apps.courses.models import Course
 
 # Create your models here.
 
